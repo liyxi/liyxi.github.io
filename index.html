@@ -10,12 +10,45 @@
     </head>
         <body>
             <h1>Welcom to liyxi's blog!</h1>
-            <p>Hi there! Welcome to my blog!</p>
-            <p>I am a postgraduate majoring in IT (to be specific, data science). In this blog, I'd like to share new things in my daily study with you. This page might be a little simple and crude for now. But I'll try my best to make it useful and worthy to share.</p>
-            <p>If you are new to this field just like me, I hope you can grow together with me and my little blog website.</p>
+            <h2>Hi there! Welcome to my blog!</h2>
+            <p>
+                Hi there! Welcome to my blog!
+            </p>
+            <p>
+                I am a postgraduate majoring in IT (to be specific, data science). In this blog, I'd like to share new things in my daily study with you. This page might be a little simple and crude for now. But I'll try my best to make it useful and worthy to share.
+            </p>
+            <p>
+                If you are new to this field just like me, I hope you can grow together with me and my little blog website.
+            </p>
             <p>Best wishes!</p>
             <p>liyxi</p>
             <p>15 Mar, 2019</p>
             <p>In USYD</p>
+            <div id="comments">
+                <h2>Comments</h2>
+                <p>
+                    Want to leave a comment or reply to others? Visit <a href="https://github.com/liyxi/liyxi.github.io/issues/1">this post's issue page on GitHub.</a>
+                </p>
+            </div>
+            <script type="text/javascript" src="http://datejs.googlecode.com/svn/trunk/build/date-en-US.js"></script>
+            <script type="text/javascript">
+                function loadComments(data) {
+                    for (var i=0; i<data.length; i++) {
+                        var cuser = data[i].user.login;
+                        var cuserlink = "https://www.github.com/" + data[i].user.login;
+                        var clink = "https://github.com/liyxi/liyxi.github.io/issues/1#issuecomment-" + data[i].url.substring(data[i].url.lastIndexOf("/")+1);
+                        var cbody = data[i].body_html;
+                        var cavatarlink = data[i].user.avatar_url;
+                        var cdate = Date.parse(data[i].created_at).toString("yyyy-MM-dd HH:mm:ss");
+                        $("#comments").append("<div class='comment'><div class='commentheader'><div class='commentgravatar'>" + '<img src="' + cavatarlink + '" alt="" width="20" height="20">' + "</div><a class='commentuser' href=\""+ cuserlink + "\">" + cuser + "</a><a class='commentdate' href=\"" + clink + "\">" + cdate + "</a></div><div class='commentbody'>" + cbody + "</div></div>");
+                }
+                $.ajax("https://api.github.com/repos/liyxi/liyxi.github.io/issues/1/comments", {
+                    headers: {Accept: "application/vnd.github.full+json"},
+                    success: function(msg){
+                        loadComments(msg);
+                    }
+                });
+            }
+            </script>
         </body>
 </html>
