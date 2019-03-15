@@ -6,8 +6,8 @@
         <title>liyxi's Blog</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
-        <link href="" rel="stylesheet">
         <script type="text/javascript" src="js/jquery.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/comment.css">
     </head>
         <body>
             <h1>Welcom to liyxi's blog!</h1>
@@ -27,9 +27,9 @@
             <p>In USYD</p>
             <div id="comments">
                 <h2>Comments</h2>
-                <p>
-                    Want to leave a comment or reply to others? Visit <a href="https://github.com/liyxi/liyxi.github.io/issues/1">this post's issue page on GitHub.</a>
-                </p>
+                <div class="header">
+                    Want to leave a comment or reply to others? Visit <a href="https://github.com/liyxi/liyxi.github.io/issues/1" target="_blank">this post's issue page on GitHub.</a>
+                </div>
             </div>
             <script type="text/javascript" src="js/date.min.js"></script>
             <script type="text/javascript">
@@ -42,7 +42,7 @@
                         var cavatarlink = data[i].user.avatar_url;
                         var cdate = Date.parse(data[i].created_at).toString("yyyy-MM-dd HH:mm:ss");
 
-                        $("#comments").append("<div class='comment'><div class='commentheader'><div class='commentgravatar'>" + '<img src="' + cavatarlink + '" alt="" width="20" height="20">' + "</div><a class='commentuser' href=\""+ cuserlink + "\">" + cuser + "</a><a class='commentdate' href=\"" + clink + "\">" + cdate + "</a></div><div class='commentbody'>" + cbody + "</div></div>");
+                        $("#comments").append("<div class='comment'><div class='commentheader'><div class='commentgravatar'>" + '<img src="' + cavatarlink + '" alt="" width="20" height="20">' + "</div><div class='commentuser'>User: <a href=\""+ cuserlink + "\">" + cuser + "</a></div><div class='commentdate'>Date: <a href=\"" + clink + "\">" + cdate + "</a></div></div><div class='commentbody'>" + cbody + "</div></div>");
                     }
                 }
 
@@ -54,5 +54,13 @@
                     }
                 });
             </script>
+            <style>
+                a {
+                    color: blue;
+                }
+                a:hover {
+                    color: purple;
+                }
+            </style>
         </body>
 </html>
