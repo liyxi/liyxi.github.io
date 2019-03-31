@@ -4,9 +4,9 @@
 
 .commentheader {
     float: left;
-    width: 90%;
-    padding: 1em 1em 0 1em;
-    border: 1px solid black;
+    width: 100%;
+    /*padding: 1em 1em 0 1em;*/
+    /*border: 1px solid black;*/
 }
 
 .commentgravatar, .commentuser, .commentdate {
@@ -16,13 +16,13 @@
 
 .commentbody {
     float: left;
-    width: 90%;
-    padding: 0 1em 1em 1em;
-    border: 1px solid black;
+    width: 100%;
+    /*padding: 0 1em 1em 1em;*/
+    /*border: 1px solid black;*/
 }
 
 .commentbody p {
-    padding: 0 1em 0 1em;
+    padding: 0.5em 1em 0.5em 1em;
 }
 
 .commentheader a {
