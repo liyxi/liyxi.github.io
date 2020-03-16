@@ -26,21 +26,15 @@ Here is a little more about me:
 
 #### The University of Sydney, Australia
 
-- Jun 2018 - Now
-- Master of Information Technology and Master of Information Technology Management
-- Data Management and Analytics
+- Sep. 2019 - Now
+- Master of Philosophy (Engineering and IT)
+- Research Interests: Deep Learning; Computer Vision; Neural Architecture Search; Network Pruning.
 
 #### Capital Normal University, China
 
-- Sep 2014 - Jun 2018
+- Sep. 2014 - Jun. 2018
 - Bachelor's degree
 - Electronic and Information Engineering
-
-#### Georgetown University, U.S.A
-
-- Jul 2016 - Aug 2016
-- Summer Program
-- Business and Marketing
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
