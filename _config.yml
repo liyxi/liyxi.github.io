@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: liyxi
 
 # Build settings
-theme: bulma-clean-theme
+# theme: bulma-clean-theme
 plugins:
   - jekyll-feed
 
@@ -41,6 +41,28 @@ paginate_path: "/blog/page:num"
 
 # footer
 footer_menu: footer
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+sass:
+  style: compressed
+  source_dir: _sass
 
 # Exclude from processing.
 # The following items will not be processed, by default.
