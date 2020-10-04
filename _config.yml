@@ -73,6 +73,8 @@ sass:
   style: compressed
   source_dir: _sass
 
+google_analytics: UA-179585402-1
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
