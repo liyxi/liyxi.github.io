@@ -8,11 +8,6 @@ show_sidebar: false
 menubar: index_menu
 ---
 
-## News
-
-- ***Adapting Neural Architectures Between Domains*** is accepted by NeurIPS 2020.
-- ***Neural Architecture Search in a Proxy Validation Loss Landscape*** is accepted by ICML 2020.
-
 ## Publications
 
 <!-- ## Journal Papers: -->
