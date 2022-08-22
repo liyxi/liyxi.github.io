@@ -6,9 +6,9 @@ permalink: /about/
 
 # Yanxi Li
 
-Master of Philosophy (Engineering and IT)\\
+PhD Student\\
 School of Computer Science\\
-University of Sydney
+University of Sydney, Australia
 
 ### Education
 
@@ -18,12 +18,20 @@ University of Sydney
     </div>
     <div style="float: left; margin: 0 0 0 1em">
         <h4>The University of Sydney, Australia</h4>
-        <div>Doctor of Philosophy (Engineering and IT)</div>
+        <div>Doctor of Philosophy</div>
+        <div>School of Computer Science</div>
         <div style="color: grey;">2021 - Now</div>
+    </div>
+</div>
+
+<div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
+    <div style="float: left;">
+        <img src="/img/icon/usyd.png" alt="USYD" style="width: 3em; margin: 0 1em 1em 1em">
     </div>
     <div style="float: left; margin: 0 0 0 1em">
         <h4>The University of Sydney, Australia</h4>
-        <div>Master of Philosophy (Engineering and IT)</div>
+        <div>Master of Philosophy</div>
+        <div>School of Computer Science</div>
         <div style="color: grey;">2019 - 2020</div>
     </div>
 </div>
