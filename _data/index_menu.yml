@@ -1,9 +1,9 @@
 - label: Home
   items:
-    - name: News
-      link: /#news
     - name: Publications
       link: /#publications
       items:
         - name: Conference Papers
           link: /#conference-papers
+        - name: Journal Papers
+          link: /#journal-papers
