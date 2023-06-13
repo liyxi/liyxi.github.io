@@ -1,9 +1,13 @@
-- label: Home
+- label: Yanxi Li
   items:
+    - name: Education
+      link: /#education
     - name: Publications
       link: /#publications
       items:
-        - name: Conference Papers
-          link: /#conference-papers
         - name: Journal Papers
           link: /#journal-papers
+        - name: Conference Papers
+          link: /#conference-papers
+    - name: Industrial Experience
+      link: /#industrial-experience

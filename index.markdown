@@ -8,32 +8,81 @@ show_sidebar: false
 menubar: index_menu
 ---
 
+## Education
+
+<div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
+    <div style="float: left;">
+        <img src="/img/icon/usyd.png" alt="USYD" style="width: 3em; margin: 0 1em 1em 1em">
+    </div>
+    <div style="float: left; margin: 0 0 0 1em">
+        <h5>Doctor of Philosophy</h5>
+        <div>School of Computer Science, Faculty of Engineering</div>
+        <div>The University of Sydney, Australia</div>
+        <div style="color: grey;">Oct. 2021 - Now</div>
+    </div>
+</div>
+
+<div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
+    <div style="float: left;">
+        <img src="/img/icon/usyd.png" alt="USYD" style="width: 3em; margin: 0 1em 1em 1em">
+    </div>
+    <div style="float: left; margin: 0 0 0 1em">
+        <h5>Master of Philosophy</h5>
+        <div>School of Computer Science, Faculty of Engineering</div>
+        <div>The University of Sydney, Australia</div>
+        <div style="color: grey;">Oct. 2019 - Sept. 2020</div>
+    </div>
+</div>
+
+<div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
+    <div style="float: left;">
+        <img src="/img/icon/cnu.png" alt="CNU" style="width: 3em; margin: 0 1em 1em 1em">
+    </div>
+    <div style="float: left; margin: 0 0 0 1em">
+        <h5>Bachelor of Engineering</h5>
+        <div>Faculty of Electronic and Information Engineering</div>
+        <div>Capital Normal University, China</div>
+        <div style="color: grey;">Sept. 2014 - June 2018</div>
+    </div>
+</div>
+
 ## Publications
 
-### Conference Papers
+> Contributed as the first author to **1 TPAMI** paper, **2 NeurIPS** papers, **2 ICML** papers, **1 CVPR** paper, and **1 AAAI** paper.
 
-* 2023
-    * **<span class='publication_index'></span>** "***Trade-off between Robustness and Accuracy of Vision Transformers***". <ins>Yanxi Li</ins> & Chang Xu (2023). In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
-
-    * **<span class='publication_index'></span>** "***Neural Architecture Search for Wide Spectrum Adversarial Robustness***". Zhi Cheng, <ins>Yanxi Li</ins>, Minjing Dong, Xiu Su, Shan You & Chang Xu (2023). In The AAAI Conference on Artificial Intelligence (AAAI).
+#### Journal Papers
 
 * 2022
 
-    * **<span class='publication_index'></span>** "***Spatial-channel Token Distillation for Vision MLPs***". <ins>Yanxi Li</ins>, Xinghao Chen, Minjing Dong, Yehui Tang, Yunhe Wang & Chang Xu (2022). In International Conference on Machine Learning (ICML).
+    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Minjing Dong, Yunhe Wang & Chang Xu. "*Neural Architecture Search via Proxy Validation*". In IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**). 🚩
 
-    * **<span class='publication_index'></span>** "***An Image Patch Is a Wave: Phase-Aware Vision MLP***". Yehui Tang, Kai Han, Jianyuan Guo, Chang Xu, <ins>Yanxi Li</ins>, Chao Xu & Yunhe Wang (2022). In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Minjing Dong, Yixing Xu, Yunhe Wang & Chang Xu. "*Neural Architecture Tuning with Policy Adaptation*". In Neurocomputing.
+
+#### Conference Papers
+
+* 2023
+
+    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li** & Chang Xu. "*Trade-off between Robustness and Accuracy of Vision Transformers*". In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**).
+
+    **<span class='publication_index'></span>**&nbsp;&nbsp; Zhi Cheng, **Yanxi Li**, Minjing Dong, Xiu Su, Shan You & Chang Xu. "*Neural Architecture Search for Wide Spectrum Adversarial Robustness*". In The AAAI Conference on Artificial Intelligence (**AAAI**). <span style="color: red; font-weight: bold;">Distinguished Paper Award</span>. 🚩
+
+* 2022
+
+    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Xinghao Chen, Minjing Dong, Yehui Tang, Yunhe Wang & Chang Xu. "*Spatial-channel Token Distillation for Vision MLPs*". In International Conference on Machine Learning (**ICML**).
+
+    **<span class='publication_index'></span>**&nbsp;&nbsp; Yehui Tang, Kai Han, Jianyuan Guo, Chang Xu, **Yanxi Li**, Chao Xu & Yunhe Wang. "*An Image Patch Is a Wave: Phase-Aware Vision MLP*". In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**).
 
 * 2021
 
-    * **<span class='publication_index'></span>** "***One-shot Graph Neural Architecture Search with Dynamic Search Space***". <ins>Yanxi Li</ins>, Zean Wen, Yunhe Wang & Chang Xu (2021). In The AAAI Conference on Artificial Intelligence (AAAI).
+    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Zean Wen, Yunhe Wang & Chang Xu. "*One-shot Graph Neural Architecture Search with Dynamic Search Space*". In The AAAI Conference on Artificial Intelligence (**AAAI**).
 
-    * **<span class='publication_index'></span>** "***Neural Architecture Dilation for Adversarial Robustness***". <ins>Yanxi Li</ins>, Zhaohui Yang, Yunhe Wang & Chang Xu (2021). In Advances in Neural Information Processing Systems (NeurIPS).
+    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Zhaohui Yang, Yunhe Wang & Chang Xu. "*Neural Architecture Dilation for Adversarial Robustness*". In Advances in Neural Information Processing Systems (**NeurIPS**).
 
-    * **<span class='publication_index'></span>** "***Prioritized Architecture Sampling With Monto-Carlo Tree Search***". Xiu Su, Tao Huang, <ins>Yanxi Li</ins>, Shan You, Fei Wang, Chen Qian, Changshui Zhang & Chang Xu (2021). In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+    **<span class='publication_index'></span>**&nbsp;&nbsp; Xiu Su, Tao Huang, **Yanxi Li**, Shan You, Fei Wang, Chen Qian, Changshui Zhang & Chang Xu. "*Prioritized Architecture Sampling With Monto-Carlo Tree Search*". In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**).
 
 * 2020
 
-    * **<span class='publication_index'></span>** "***Neural Architecture Search in A Proxy Validation Loss Landscape***". <ins>Yanxi Li</ins>, Minjing Dong, Yunhe Wang & Chang Xu (2020). In International Conference on Machine Learning (ICML).
+    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Minjing Dong, Yunhe Wang & Chang Xu. "*Neural Architecture Search in A Proxy Validation Loss Landscape*". In International Conference on Machine Learning (**ICML**).
     {% comment %}
     [<a href="javascript:toggle_element('abs_li2020neural')"><u>Abstract</u></a>,
      <a href="https://proceedings.icml.cc/static/paper_files/icml/2020/439-Paper.pdf" target="_blank"><u>PDF</u></a>,
@@ -51,7 +100,7 @@ menubar: index_menu
     </div>
     {% endcomment %}
 
-    * **<span class='publication_index'></span>** "***Adapting Neural Architectures Between Domains***". <ins>Yanxi Li</ins>, Zhaohui Yang, Yunhe Wang & Chang Xu (2020). In Advances in Neural Information Processing Systems (NeurIPS).
+    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Zhaohui Yang, Yunhe Wang & Chang Xu. "*Adapting Neural Architectures Between Domains*". In Advances in Neural Information Processing Systems (**NeurIPS**).
     {% comment %}
     [<a href="javascript:toggle_element('abs_li2020adapting')"><u>Abstract</u></a>,
      <a href="javascript:open_new_page('Coming soon.')"><u>PDF</u></a>,
@@ -69,14 +118,6 @@ menubar: index_menu
         <br>
     </div>
     {% endcomment %}
-
-### Journal Papers
-
-* 2022
-
-    * **<span class='publication_index'></span>** "***Neural Architecture Search via Proxy Validation***". <ins>Yanxi Li</ins>, Minjing Dong, Yunhe Wang & Chang Xu (2022). In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-
-    * **<span class='publication_index'></span>** "***Neural Architecture Tuning with Policy Adaptation***". <ins>Yanxi Li</ins>, Minjing Dong, Yixing Xu, Yunhe Wang & Chang Xu (2022). In Neurocomputing.
 
 <script type='text/javascript'>
 
@@ -103,3 +144,16 @@ menubar: index_menu
     }
 
 </script>
+
+## Industrial Experience
+
+<div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
+    <div style="float: left;">
+        <img src="/img/icon/ibm.png" alt="IBM" style="width: 3em; margin: 0 1em 1em 1em">
+    </div>
+    <div style="float: left; margin: 0 0 0 1em">
+        <h4>Development Intern</h4>
+        <div>IBM China Development Lab.</div>
+        <div style="color: grey;">Apr. 2018 - June 2018</div>
+    </div>
+</div>

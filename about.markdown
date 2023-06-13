@@ -51,7 +51,7 @@ permalink: /about/
     </div>
 </div>
 
-## Employment
+## Industrial Experience
 
 <div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
     <div style="float: left;">
