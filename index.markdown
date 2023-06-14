@@ -8,7 +8,7 @@ show_sidebar: false
 menubar: index_menu
 ---
 
-## Education
+## 🎓 Education
 
 <div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
     <div style="float: left;">
@@ -46,7 +46,7 @@ menubar: index_menu
     </div>
 </div>
 
-## Publications
+## 📝 Publications
 
 > Contributed as the first author to **1 TPAMI** paper, **2 NeurIPS** papers, **2 ICML** papers, **1 CVPR** paper, and **1 AAAI** paper.
 
@@ -54,7 +54,7 @@ menubar: index_menu
 
 * 2022
 
-    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Minjing Dong, Yunhe Wang & Chang Xu. "*Neural Architecture Search via Proxy Validation*". In IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**). 🚩
+    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Minjing Dong, Yunhe Wang & Chang Xu. "*Neural Architecture Search via Proxy Validation*". In IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**). <span style="color: red; font-weight: bold;">NEW</span> 🚩.
 
     **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Minjing Dong, Yixing Xu, Yunhe Wang & Chang Xu. "*Neural Architecture Tuning with Policy Adaptation*". In Neurocomputing.
 
@@ -62,9 +62,9 @@ menubar: index_menu
 
 * 2023
 
-    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li** & Chang Xu. "*Trade-off between Robustness and Accuracy of Vision Transformers*". In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**).
+    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li** & Chang Xu. "*Trade-off between Robustness and Accuracy of Vision Transformers*". In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). <span style="color: red; font-weight: bold;">NEW</span> 🚩.
 
-    **<span class='publication_index'></span>**&nbsp;&nbsp; Zhi Cheng, **Yanxi Li**, Minjing Dong, Xiu Su, Shan You & Chang Xu. "*Neural Architecture Search for Wide Spectrum Adversarial Robustness*". In The AAAI Conference on Artificial Intelligence (**AAAI**). <span style="color: red; font-weight: bold;">Distinguished Paper Award</span>. 🚩
+    **<span class='publication_index'></span>**&nbsp;&nbsp; Zhi Cheng, **Yanxi Li**, Minjing Dong, Xiu Su, Shan You & Chang Xu. "*Neural Architecture Search for Wide Spectrum Adversarial Robustness*". In The AAAI Conference on Artificial Intelligence (**AAAI**). <span style="color: red; font-weight: bold;">Distinguished Paper Award</span> 🚩.
 
 * 2022
 
@@ -145,7 +145,7 @@ menubar: index_menu
 
 </script>
 
-## Industrial Experience
+## 🖥 Industrial Experience
 
 <div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
     <div style="float: left;">
@@ -153,7 +153,7 @@ menubar: index_menu
     </div>
     <div style="float: left; margin: 0 0 0 1em">
         <h4>Development Intern</h4>
-        <div>IBM China Development Lab.</div>
+        <div>IBM China Development Lab</div>
         <div style="color: grey;">Apr. 2018 - June 2018</div>
     </div>
 </div>
