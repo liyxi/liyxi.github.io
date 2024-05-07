@@ -3,130 +3,60 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
+title: Yanxi Li
 show_sidebar: false
-menubar: index_menu
 ---
 
-## 🎓 Education
+## 🎓 EDUCATION
 
-<div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
-    <div style="float: left;">
-        <img src="/img/icon/usyd.png" alt="USYD" style="width: 3em; margin: 0 1em 1em 1em">
-    </div>
-    <div style="float: left; margin: 0 0 0 1em">
-        <h5>Doctor of Philosophy</h5>
-        <div>School of Computer Science, Faculty of Engineering</div>
-        <div>The University of Sydney, Australia</div>
-        <div style="color: grey;">Oct. 2021 - Now</div>
-    </div>
-</div>
+<table>
+    <tr>
+        <td valign="top" style="width:7em;margin:0 1em 1em 1em">10/2021 - Now</td>
+        <td valign="top" style="width:5em;margin:0 1em 1em 1em">
+            <img src="/img/icon/usyd.png" alt="USYD">
+        </td>
+        <td valign="top" style="margin:0 1em 1em 1em">
+            <div><b>Doctor of Philosophy</b></div>
+            <div>School of Computer Science, Faculty of Engineering</div>
+            <div>The University of Sydney, Australia</div>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" style="width:7em;margin:0 1em 1em 1em">10/2019 - 9/2020</td>
+        <td valign="top" style="width:5em;margin:0 1em 1em 1em">
+            <img src="/img/icon/usyd.png" alt="USYD">
+        </td>
+        <td valign="top" style="margin:0 1em 1em 1em">
+            <div><b>Master of Philosophy</b></div>
+            <div>School of Computer Science, Faculty of Engineering</div>
+            <div>The University of Sydney, Australia</div>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" style="width:7em;margin:0 1em 1em 1em">9/2014 - 6/2018</td>
+        <td valign="top" style="width:5em;margin:0 1em 1em 1em">
+            <img src="/img/icon/cnu.png" alt="CNU">
+        </td>
+        <td valign="top" style="margin:0 1em 1em 1em">
+            <div><b>Bachelor of Engineering</b></div>
+            <div>Faculty of Electronic and Information Engineering</div>
+            <div>Capital Normal University, China</div>
+        </td>
+    </tr>
+</table>
 
-<div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
-    <div style="float: left;">
-        <img src="/img/icon/usyd.png" alt="USYD" style="width: 3em; margin: 0 1em 1em 1em">
-    </div>
-    <div style="float: left; margin: 0 0 0 1em">
-        <h5>Master of Philosophy</h5>
-        <div>School of Computer Science, Faculty of Engineering</div>
-        <div>The University of Sydney, Australia</div>
-        <div style="color: grey;">Oct. 2019 - Sept. 2020</div>
-    </div>
-</div>
+## 📝 PUBLICATIONS
 
-<div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
-    <div style="float: left;">
-        <img src="/img/icon/cnu.png" alt="CNU" style="width: 3em; margin: 0 1em 1em 1em">
-    </div>
-    <div style="float: left; margin: 0 0 0 1em">
-        <h5>Bachelor of Engineering</h5>
-        <div>Faculty of Electronic and Information Engineering</div>
-        <div>Capital Normal University, China</div>
-        <div style="color: grey;">Sept. 2014 - June 2018</div>
-    </div>
-</div>
-
-## 📝 Publications
-
-> Contributed as the first author to **1 TPAMI** paper, **2 NeurIPS** papers, **2 ICML** papers, **1 CVPR** paper, and **1 AAAI** paper.
-
-#### Journal Papers
-
-* 2022
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Minjing Dong, Yunhe Wang & Chang Xu. "*Neural Architecture Search via Proxy Validation*". In IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**). <span style="color: red; font-weight: bold;">NEW</span> 🚩.
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Minjing Dong, Yixing Xu, Yunhe Wang & Chang Xu. "*Neural Architecture Tuning with Policy Adaptation*". In Neurocomputing.
-
-#### Conference Papers
-
-* 2023
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li** & Chang Xu. "*Trade-off between Robustness and Accuracy of Vision Transformers*". In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). <span style="color: red; font-weight: bold;">NEW</span> 🚩.
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; Zhi Cheng, **Yanxi Li**, Minjing Dong, Xiu Su, Shan You & Chang Xu. "*Neural Architecture Search for Wide Spectrum Adversarial Robustness*". In The AAAI Conference on Artificial Intelligence (**AAAI**). <span style="color: red; font-weight: bold;">Distinguished Paper Award</span> 🚩.
-
-* 2022
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Xinghao Chen, Minjing Dong, Yehui Tang, Yunhe Wang & Chang Xu. "*Spatial-channel Token Distillation for Vision MLPs*". In International Conference on Machine Learning (**ICML**).
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; Yehui Tang, Kai Han, Jianyuan Guo, Chang Xu, **Yanxi Li**, Chao Xu & Yunhe Wang. "*An Image Patch Is a Wave: Phase-Aware Vision MLP*". In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**).
-
-* 2021
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Zean Wen, Yunhe Wang & Chang Xu. "*One-shot Graph Neural Architecture Search with Dynamic Search Space*". In The AAAI Conference on Artificial Intelligence (**AAAI**).
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Zhaohui Yang, Yunhe Wang & Chang Xu. "*Neural Architecture Dilation for Adversarial Robustness*". In Advances in Neural Information Processing Systems (**NeurIPS**).
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; Xiu Su, Tao Huang, **Yanxi Li**, Shan You, Fei Wang, Chen Qian, Changshui Zhang & Chang Xu. "*Prioritized Architecture Sampling With Monto-Carlo Tree Search*". In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**).
-
-* 2020
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Minjing Dong, Yunhe Wang & Chang Xu. "*Neural Architecture Search in A Proxy Validation Loss Landscape*". In International Conference on Machine Learning (**ICML**).
-    {% comment %}
-    [<a href="javascript:toggle_element('abs_li2020neural')"><u>Abstract</u></a>,
-     <a href="https://proceedings.icml.cc/static/paper_files/icml/2020/439-Paper.pdf" target="_blank"><u>PDF</u></a>,
-     <a href="javascript:open_new_page('@inproceedings{li2020neural,<br>
-            title={Neural architecture search in a proxy validation loss landscape},<br>
-            author={Li, Yanxi and Dong, Minjing and Wang, Yunhe and Xu, Chang},<br>
-            booktitle={International Conference on Machine Learning},<br>
-            year={2020}<br>
-        }')"><u>BibTex</u></a>,
-     <a href="https://github.com/liyxi/PVLL-NAS" target="_blank"><u>Code</u></a>].
-     <div id="abs_li2020neural" style="text-align: justify; display: none; margin: 0 0 0 4em">
-        <p>
-            This paper searches for the optimal neural architecture by minimizing a proxy of validation loss. Existing neural architecture search (NAS) methods used to discover the optimal neural architecture that best fits the validation examples given the up-to-date network weights. However, back propagation with a number of validation examples could be time consuming, especially when it needs to be repeated many times in NAS. Though these intermediate validation results are invaluable, they would be wasted if we cannot use them to predict the future from the past. In this paper, we propose to approximate the validation loss landscape by learning a mapping from neural architectures to their corresponding validate losses. The optimal neural architecture thus can be easily identified as the minimum of this proxy validation loss landscape. A novel sampling strategy is further developed for an efficient approximation of the loss landscape. Theoretical analysis indicates that the validation loss estimator learned with our sampling strategy can reach a lower error rate and a lower label complexity compared with a uniform sampling. Experimental results on benchmarks demonstrate that the architecture searched by the proposed algorithm can achieve a satisfactory accuracy with less time cost.
-        </p>
-    </div>
-    {% endcomment %}
-
-    **<span class='publication_index'></span>**&nbsp;&nbsp; **Yanxi Li**, Zhaohui Yang, Yunhe Wang & Chang Xu. "*Adapting Neural Architectures Between Domains*". In Advances in Neural Information Processing Systems (**NeurIPS**).
-    {% comment %}
-    [<a href="javascript:toggle_element('abs_li2020adapting')"><u>Abstract</u></a>,
-     <a href="javascript:open_new_page('Coming soon.')"><u>PDF</u></a>,
-     <a href="javascript:open_new_page('@inproceedings{li2020adapting,<br>
-            title={Adapting Neural Architectures Between Domains},<br>
-            author={Li, Yanxi and Yang, Zhaohui and Wang, Yunhe and Xu, Chang},<br>
-            booktitle={Advances in Neural Information Processing Systems},<br>
-            year={2020}<br>
-        }')"><u>BibTex</u></a>,
-     <a href="https://github.com/liyxi/AdaptNAS" target="_blank"><u>Code</u></a>].
-    <div id="abs_li2020adapting" style="text-align: justify; display: none; margin: 0 0 0 4em">
-        <p>
-            Neural architecture search (NAS) has demonstrated impressive performance in automatically designing high-performance neural networks. The power of deep neural networks is to be unleashed for analyzing a large volume of data (e.g. ImageNet), but the architecture search is often executed on another smaller dataset (e.g. CIFAR-10) to finish it in a feasible time. However, it is hard to guarantee that the optimal architecture derived on the proxy task could maintain its advantages on another more challenging dataset. This paper aims to improve the generalization of neural architectures via domain adaptation. We analyze the generalization bounds of the derived architecture and suggest its close relations with the validation error and the data distribution distance on both domains. These theoretical analyses lead to AdaptNAS, a novel and principled approach to adapt neural architectures between domains in NAS. Our experimental evaluation shows that only a small part of ImageNet will be sufficient for AdaptNAS to extend its architecture success to the entire ImageNet and outperform state-of-the-art comparison algorithms.
-        </p>
-        <br>
-    </div>
-    {% endcomment %}
+<h3>Journal</h3><table><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt">2022</td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[1]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Neural Architecture Search via Proxy Validation</b></div><div><em><b>Yanxi Li</b>, Minjing Dong, Yunhe Wang & Chang Xu</em></div><div>In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 🚩 Impact Factor = 23.6</div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt"></td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[2]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Neural Architecture Tuning with Policy Adaptation</b></div><div><em><b>Yanxi Li</b>, Minjing Dong, Yixing Xu, Yunhe Wang & Chang Xu</em></div><div>In Neurocomputing. </div></td></tr></table><h3>Conference</h3><table><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt">2024</td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[3]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Harnessing Edge Information for Improved Robustness in Vision Transformers</b></div><div><em><b>Yanxi Li</b>, Chengbin Du & Chang Xu</em></div><div>In The AAAI Conference on Artificial Intelligence (AAAI). </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt"></td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[4]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Neural Architecture Retrieval</b></div><div><em>Xiaohuan Pei, <b>Yanxi Li</b>, Minjing Dong, Chang Xu</em></div><div>In International Conference on Learning Representations (ICLR). </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt">2023</td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[5]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Trade-off between Robustness and Accuracy of Vision Transformers</b></div><div><em><b>Yanxi Li</b> & Chang Xu</em></div><div>In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt"></td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[6]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Stable Diffusion is Unstable</b></div><div><em>Chengbin Du, <b>Yanxi Li</b>, Zhongwei Qiu & Chang Xu</em></div><div>In Advances in Neural Information Processing Systems (NeurIPS). 🚩 Spotlight.</div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt">2023</td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[7]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Neural Architecture Search for Wide Spectrum Adversarial Robustness</b></div><div><em>Zhi Cheng, <b>Yanxi Li</b>, Minjing Dong, Xiu Su, Shan You & Chang Xu</em></div><div>In The AAAI Conference on Artificial Intelligence (AAAI). 🚩 Distinguished Paper Award (12 winners out of 1,721 accepted papers, resulting in a success rate of 0.7%).</div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt">2022</td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[8]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Spatial-channel Token Distillation for Vision MLPs</b></div><div><em><b>Yanxi Li</b>, Xinghao Chen, Minjing Dong, Yehui Tang, Yunhe Wang & Chang Xu</em></div><div>In International Conference on Machine Learning (ICML). </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt"></td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[9]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>An Image Patch Is a Wave: Phase-Aware Vision MLP</b></div><div><em>Yehui Tang, Kai Han, Jianyuan Guo, Chang Xu, <b>Yanxi Li</b>, Chao Xu & Yunhe Wang</em></div><div>In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt">2021</td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[10]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>One-shot Graph Neural Architecture Search with Dynamic Search Space</b></div><div><em><b>Yanxi Li</b>, Zean Wen, Yunhe Wang & Chang Xu</em></div><div>In The AAAI Conference on Artificial Intelligence (AAAI). </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt"></td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[11]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Neural Architecture Dilation for Adversarial Robustness</b></div><div><em><b>Yanxi Li</b>, Zhaohui Yang, Yunhe Wang & Chang Xu</em></div><div>In Advances in Neural Information Processing Systems (NeurIPS). </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt">2021</td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[12]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Prioritized Architecture Sampling with Monto-Carlo Tree Search</b></div><div><em>Xiu Su, Tao Huang, <b>Yanxi Li</b>, Shan You, Fei Wang, Chen Qian, Changshui Zhang & Chang Xu</em></div><div>In The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt">2020</td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[13]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Neural Architecture Search in A Proxy Validation Loss Landscape</b></div><div><em><b>Yanxi Li</b>, Minjing Dong, Yunhe Wang & Chang Xu</em></div><div>In International Conference on Machine Learning (ICML). </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt"></td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[14]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Adapting Neural Architectures Between Domains</b></div><div><em><b>Yanxi Li</b>, Zhaohui Yang, Yunhe Wang & Chang Xu</em></div><div>In Advances in Neural Information Processing Systems (NeurIPS). </div></td></tr></table><h3>Pre-printing</h3><table><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt">2024</td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[15]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Understanding Robustness of Visual State Space Models for Image Classification</b></div><div><em>Chengbin Du, <b>Yanxi Li</b> & Chang Xu</em></div><div>In arXiv preprint. arXiv:2403.10935. </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt"></td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[16]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>GPT Self-Supervision for a Better Data Annotator</b></div><div><em>Xiaohuan Pei, <b>Yanxi Li</b>, Zijian Wang & Chang Xu</em></div><div>In arXiv preprint. arXiv:2306.04349. </div></td></tr><tr><td valign="top" style="width:35.45pt;padding:5.4pt 5.4pt 5.4pt 5.4pt">2023</td><td valign="top" style="width:1.0cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">[17]</td><td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt"><div><b>Adversarially Robust Neural Architectures</b></div><div><em>Minjing Dong, <b>Yanxi Li</b>, Yunhe Wang & Chang Xu</em></div><div>In arXiv preprint. arXiv:2009.00902. </div></td></tr></table>
 
 <script type='text/javascript'>
 
-    var publication_count = 1;
-    var publication_indices = document.getElementsByClassName("publication_index");
-    for (var i = 0; i <= publication_indices.length - 1; i++) {
-        publication_indices[i].innerHTML = '[' + publication_count + ']';
-        publication_count++;
-    }
+    // var publication_count = 1;
+    // var publication_indices = document.getElementsByClassName("publication_index");
+    // for (var i = 0; i <= publication_indices.length - 1; i++) {
+    //     publication_indices[i].innerHTML = '[' + publication_count + ']';
+    //     publication_count++;
+    // }
 
     function open_new_page(text)
     {
@@ -145,15 +75,61 @@ menubar: index_menu
 
 </script>
 
-## 🖥 Industrial Experience
+## 🏆 AWARD & SCHOLARSHIP
 
-<div style="display: inline-block; margin: 1em 0 0 0; width: 100%">
-    <div style="float: left;">
-        <img src="/img/icon/ibm.png" alt="IBM" style="width: 3em; margin: 0 1em 1em 1em">
-    </div>
-    <div style="float: left; margin: 0 0 0 1em">
-        <h4>Development Intern</h4>
-        <div>IBM China Development Lab</div>
-        <div style="color: grey;">Apr. 2018 - June 2018</div>
-    </div>
-</div>
+### Scholarship
+
+<table>
+    <tr>
+        <td valign="top" style="width:2cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">2023</td>
+        <td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt">
+            <div><b>Google PhD Fellowship</b></div>
+            <div>In the field of Machine Perception, Speech Technology and Computer Vision. One of the 81 recipients globally.</div>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" style="width:2cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">9/2021 - Present</td>
+        <td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt">
+            <div><b>Faculty of Engineering Research Scholarship</b></div>
+            <div>Coverage of academic tuition fees and a living-cost stipend.</div>
+        </td>
+    </tr>
+</table>
+
+### Award
+
+<table>
+    <tr>
+        <td valign="top" style="width:2cm;padding:5.4pt 5.4pt 5.4pt 5.4pt">2023</td>
+        <td valign="top" style="padding:5.4pt 5.4pt 5.4pt 5.4pt">
+            <div><b>Distinguished Paper Award [7]</b></div>
+            <div>AAAI 2023. 12 winners out of 1,721 accepted papers, resulting in a success rate of 0.7%.</div>
+        </td>
+    </tr>
+</table>
+
+## 🖥 INDUSTRIAL EXPERIENCE
+
+<table>
+    <tr>
+        <td valign="top" style="width:6em;margin:0 1em 1em 1em">9/2021 - 3/2022</td>
+        <td valign="top" style="width:5em;margin:0 1em 1em 1em">
+            <img src="/img/icon/noah.png" alt="NOAH">
+        </td>
+        <td valign="top" style="margin:0 1em 1em 1em">
+            <div><b>Noah’s Ark Lab</b></div>
+            <div>PhD Research Intern</div>
+            <div><em>Conference papers [8] and [9] were completed during this internship.</em></div>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" style="width:6em;margin:0 1em 1em 1em">4/2018 - 6/2018</td>
+        <td valign="top" style="width:5em;margin:0 1em 1em 1em">
+            <img src="/img/icon/ibm.png" alt="IBM">
+        </td>
+        <td valign="top" style="margin:0 1em 1em 1em">
+            <div><b>IBM China Development Lab</b></div>
+            <div>Undergraduate Development Intern</div>
+        </td>
+    </tr>
+</table>
