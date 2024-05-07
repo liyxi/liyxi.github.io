@@ -124,7 +124,7 @@ show_sidebar: false
     </tr>
     <tr>
         <td valign="top" style="width:6em;margin:0 1em 1em 1em">4/2018 - 6/2018</td>
-        <td valign="top" style="width:5em;margin:0 1em 1em 1em">
+        <td valign="top" style="width:5em;margin:0 1em 1em 1em;padding-top: 1em">
             <img src="/img/icon/ibm.png" alt="IBM">
         </td>
         <td valign="top" style="margin:0 1em 1em 1em">
