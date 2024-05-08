@@ -1,2 +1,12 @@
-# - name: About
-#   link: /about/
+- name: 🎓 Educ. # Education
+  link: /#-education
+- name: 📝 Publ. # Publications
+  link: /#-publications
+- name: 🏆 Awd. & Schol. # Award & Scholarship
+  link: /#-award--scholarship
+- name: 📖 Teach. # Teaching
+  link: /#-teaching
+- name: 📝 Svcs. # Services
+  link: /#-academic-services
+- name: 💼 Exp. # Industrial Experience
+  link: /#-industrial-experience

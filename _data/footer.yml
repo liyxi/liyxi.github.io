@@ -1,5 +1,18 @@
-- name: Home
-  link: /
+- name: 🎓 Educ. # Education
+  link: /#-education
+- name: 📝 Publ. # Publications
+  link: /#-publications
+- name: 🏆 Awd. & Schol. # Award & Scholarship
+  link: /#-award--scholarship
+- name: 📖 Teach. # Teaching
+  link: /#-teaching
+- name: 📝 Svcs. # Services
+  link: /#-academic-services
+- name: 💼 Exp. # Industrial Experience
+  link: /#-industrial-experience
+
+# - name: Back to Top
+#   link: /#
 # - name: About
 #   link: /about/
 # - name: Blogs
