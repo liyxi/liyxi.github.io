@@ -1,12 +1,17 @@
-- name: 🎓 Educ. # Education
-  link: /#-education
-- name: 📝 Publ. # Publications
-  link: /#-publications
-- name: 🏆 Awd. & Schol. # Award & Scholarship
-  link: /#-award--scholarship
-- name: 📖 Teach. # Teaching
-  link: /#-teaching
-- name: 📝 Svcs. # Services
-  link: /#-academic-services
-- name: 💼 Exp. # Industrial Experience
-  link: /#-industrial-experience
+- name: Quick Navigation
+  link: /#
+  dropdown:
+  - name: 🎓 Education # Educ.
+    link: /#-education
+  - name: 📝 Publications # Publ.
+    link: /#-publications
+  - name: 🏆 Award & Scholarship # Awd. & Schol.
+    link: /#-award--scholarship
+  - name: 📖 Teaching # Teach.
+    link: /#-teaching
+  - name: 💬 Peer Mentoring # P. Ment.
+    link: /#-peer-mentoring
+  - name: 📝 Services # Svcs.
+    link: /#-academic-services
+  - name: 💼 Industrial Experience # Exp.
+    link: /#-industrial-experience

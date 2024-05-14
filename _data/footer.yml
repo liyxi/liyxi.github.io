@@ -1,14 +1,16 @@
-- name: 🎓 Educ. # Education
+- name: 🎓</br>Education # Educ.
   link: /#-education
-- name: 📝 Publ. # Publications
+- name: 📝</br>Publications # Publ.
   link: /#-publications
-- name: 🏆 Awd. & Schol. # Award & Scholarship
+- name: 🏆</br>Award & Scholarship # Awd. & Schol.
   link: /#-award--scholarship
-- name: 📖 Teach. # Teaching
+- name: 📖</br>Teaching # Teach.
   link: /#-teaching
-- name: 📝 Svcs. # Services
+- name: 💬</br>Peer Mentoring # P. Ment.
+  link: /#-peer-mentoring
+- name: 📝</br>Services # Svcs.
   link: /#-academic-services
-- name: 💼 Exp. # Industrial Experience
+- name: 💼</br>Industrial Experience # Exp.
   link: /#-industrial-experience
 
 # - name: Back to Top
