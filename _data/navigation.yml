@@ -2,16 +2,16 @@
   link: /#
   dropdown:
   - name: 🎓 Education # Educ.
-    link: /#-education
+    link: /#h2-education
   - name: 📝 Publications # Publ.
-    link: /#-publications
+    link: /#h2-publications
   - name: 🏆 Award & Scholarship # Awd. & Schol.
-    link: /#-award--scholarship
+    link: /#h2-award_scholarship
   - name: 📖 Teaching # Teach.
-    link: /#-teaching
+    link: /#h2-teaching
   - name: 💬 Peer Mentoring # P. Ment.
-    link: /#-peer-mentoring
+    link: /#h2-peer_mentoring
   - name: 📝 Services # Svcs.
-    link: /#-academic-services
+    link: /#h2-academic_services
   - name: 💼 Industrial Experience # Exp.
-    link: /#-industrial-experience
+    link: /#h2-industrial_experience

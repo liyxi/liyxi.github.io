@@ -1,21 +1,14 @@
 - name: 🎓</br>Education # Educ.
-  link: /#-education
+  link: /#h2-education
 - name: 📝</br>Publications # Publ.
-  link: /#-publications
+  link: /#h2-publications
 - name: 🏆</br>Award & Scholarship # Awd. & Schol.
-  link: /#-award--scholarship
+  link: /#h2-award_scholarship
 - name: 📖</br>Teaching # Teach.
-  link: /#-teaching
+  link: /#h2-teaching
 - name: 💬</br>Peer Mentoring # P. Ment.
-  link: /#-peer-mentoring
+  link: /#h2-peer_mentoring
 - name: 📝</br>Services # Svcs.
-  link: /#-academic-services
+  link: /#h2-academic_services
 - name: 💼</br>Industrial Experience # Exp.
-  link: /#-industrial-experience
-
-# - name: Back to Top
-#   link: /#
-# - name: About
-#   link: /about/
-# - name: Blogs
-#   link: /blog/
+  link: /#h2-industrial_experience
