@@ -4,7 +4,7 @@
 
 layout: page
 title: Yanxi Li
-subtitle: 🎓 PhD Student (Deep Learning & Computer Vision) @ USYD</br>🏆 Google 2023 PhD Fellowship Recipient
+subtitle: 🎓 PhD Student (Artificial Intelligence, Deep Learning & Computer Vision) @ USYD</br>🏆 Google PhD Fellow
 show_sidebar: false
 # menubar: index_menu
 ---
@@ -20,7 +20,7 @@ show_sidebar: false
             <td valign="top" style="margin:0 1em 1em 1em">
                 <div><b>Doctor of Philosophy</b>, <i>Computer Science</i></div>
                 <div>School of Computer Science, Faculty of Engineering</div>
-                <div>The University of Sydney, Australia</div>
+                <div>The University of Sydney, NSW, Australia</div>
             </td>
         </tr>
     </table>
@@ -33,7 +33,7 @@ show_sidebar: false
             <td valign="top" style="margin:0 1em 1em 1em">
                 <div><b>Master of Philosophy</b>, <i>Computer Science</i></div>
                 <div>School of Computer Science, Faculty of Engineering</div>
-                <div>The University of Sydney, Australia</div>
+                <div>The University of Sydney, NSW, Australia</div>
             </td>
         </tr>
     </table>
@@ -46,7 +46,7 @@ show_sidebar: false
             <td valign="top" style="margin:0 1em 1em 1em">
                 <div><b>Bachelor of Engineering</b>, <i>Electronic and Information Engineering</i></div>
                 <div>Faculty of Electronic and Information Engineering</div>
-                <div>Capital Normal University, China</div>
+                <div>Capital Normal University, Beijing, China</div>
             </td>
         </tr>
     </table>
@@ -185,9 +185,9 @@ show_sidebar: false
 <div class="custom_card" id="h2-academic_services">
     <h2>📝 ACADEMIC SERVICES</h2>
     <h3>Journal Reviewer</h3>
-    TPAMI (2021-2023), TMLR (2023-2024), Neurocomputing (2021-2023).
+    IEEE TPAMI (2021-2024), IEEE TNNLS (was TNN, 2023-2024), IEEE TMM (2023-2024), TMLR (2023-2024), Neurocomputing (2021-2023).
     <h3>Conference Reviewer</h3>
-    NeurIPS (2021-2023), ICML (2021-2024), CVPR (2021-2023), ICLR (2023-2024), AAAI (2021-2024), ECCV (2022, 2024), ICCV (2023), SIGKDD (2021).
+    NeurIPS (2021-2024), ICML (2021-2024), CVPR (2021-2023), ICLR (2023-2024), AAAI (2021-2024), ICCV (2023), ECCV (2022, 2024), ICDM (2021-2022, 2024), ACM SIGKDD (2021) ACM MM (2021).
 </div>
 
 <div class="custom_card" id="h2-industrial_experience">
