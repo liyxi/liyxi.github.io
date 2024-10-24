@@ -4,7 +4,7 @@
 
 layout: page
 title: Yanxi Li
-subtitle: 🎓 PhD Student (Artificial Intelligence, Deep Learning & Computer Vision) @ USYD</br>🏆 Google PhD Fellow
+subtitle: </br>Artificial Intelligence / Deep Learning / Robust and Trustworthy AI / Computer Vision</br></br>🎓 PhD Student @ USYD</br>🏆 Google PhD Fellow</br></br>🌐 <b>Google Scholar:</b>&nbsp;<em><u><a href="https://scholar.google.com/citations?user=3HDmndkAAAAJ" target="_blank" rel="noopener noreferrer">https://scholar.google.com/citations?user=3HDmndkAAAAJ</a></u></em></br>🌐 <b>LinkedIn:</b>&nbsp;<em><u><a href="https://www.linkedin.com/in/lyxi" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/lyxi</a></u></em>
 show_sidebar: false
 # menubar: index_menu
 ---
