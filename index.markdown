@@ -223,9 +223,13 @@ show_sidebar: false
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9XQ2SES918"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'G-9XQ2SES918');
+    gtag('config', 'G-9XQ2SES918');
+
+    if (window.innerWidth <= 768) {
+        document.body.style.zoom = "70%";
+    }
 </script>
