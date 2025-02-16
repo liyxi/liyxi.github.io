@@ -59,15 +59,25 @@ show_sidebar: false
         <tr id="publication-num-1">
             <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[1]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
-            <div><b>Neural Architecture Search via Proxy Validation</b></div>
-            <div><em><b>Yanxi Li</b>, Minjing Dong, Yunhe Wang & Chang Xu</em></div>
-            <div>In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. 🚩 <span style="color:red">Impact Factor = 23.6</span></div>
+            <div><b>Adversarially Robust Neural Architectures</b></div>
+            <div><em>Minjing Dong, <b>Yanxi Li</b>, Yunhe Wang & Chang Xu</em></div>
+            <div>In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025. 🚩</div>
             </td>
         </tr>
     </table>
     <table>
         <tr id="publication-num-2">
             <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[2]</td>
+            <td valign="top" style="padding:0em 1em 1em 1em">
+            <div><b>Neural Architecture Search via Proxy Validation</b></div>
+            <div><em><b>Yanxi Li</b>, Minjing Dong, Yunhe Wang & Chang Xu</em></div>
+            <div>In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. 🚩</div>
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr id="publication-num-3">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[3]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Neural Architecture Tuning with Policy Adaptation</b></div>
             <div><em><b>Yanxi Li</b>, Minjing Dong, Yixing Xu, Yunhe Wang & Chang Xu</em></div>
@@ -77,8 +87,18 @@ show_sidebar: false
     </table>
     <h3>Conference</h3>
     <table>
-        <tr id="publication-num-3">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[3]</td>
+        <tr id="publication-num-4">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[4]</td>
+            <td valign="top" style="padding:0em 1em 1em 1em">
+            <div><b>Optimizing Quantized Diffusion Models via Distillation with Cross-Timestep Error Correction</b></div>
+            <div><em><b>Yanxi Li</b> & Chengbin Du</em></div>
+            <div>In The AAAI Conference on Artificial Intelligence (AAAI), 2025. </div>
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr id="publication-num-5">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[5]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Harnessing Edge Information for Improved Robustness in Vision Transformers</b></div>
             <div><em><b>Yanxi Li</b>, Chengbin Du & Chang Xu</em></div>
@@ -87,8 +107,8 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-4">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[4]</td>
+        <tr id="publication-num-6">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[6]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Neural Architecture Retrieval</b></div>
             <div><em>Xiaohuan Pei, <b>Yanxi Li</b>, Minjing Dong, Chang Xu</em></div>
@@ -97,8 +117,8 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-5">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[5]</td>
+        <tr id="publication-num-7">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[7]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Trade-off between Robustness and Accuracy of Vision Transformers</b></div>
             <div><em><b>Yanxi Li</b> & Chang Xu</em></div>
@@ -107,8 +127,8 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-6">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[6]</td>
+        <tr id="publication-num-8">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[8]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Stable Diffusion is Unstable</b></div>
             <div><em>Chengbin Du, <b>Yanxi Li</b>, Zhongwei Qiu & Chang Xu</em></div>
@@ -117,18 +137,18 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-7">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[7]</td>
+        <tr id="publication-num-9">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[9]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Neural Architecture Search for Wide Spectrum Adversarial Robustness</b></div>
             <div><em>Zhi Cheng, <b>Yanxi Li</b>, Minjing Dong, Xiu Su, Shan You & Chang Xu</em></div>
-            <div>In The AAAI Conference on Artificial Intelligence (AAAI), 2023. 🚩 <span style="color:red">Distinguished Paper Award</span>.</div>
+            <div>In The AAAI Conference on Artificial Intelligence (AAAI), 2023. 🚩 <span style="color:red">Distinguished Paper Award</span> (12 winners out of 1,721 accepted papers, resulting in a success rate of 0.7%).</div>
             </td>
         </tr>
     </table>
     <table>
-        <tr id="publication-num-8">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[8]</td>
+        <tr id="publication-num-10">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[10]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Spatial-channel Token Distillation for Vision MLPs</b></div>
             <div><em><b>Yanxi Li</b>, Xinghao Chen, Minjing Dong, Yehui Tang, Yunhe Wang & Chang Xu</em></div>
@@ -137,8 +157,8 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-9">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[9]</td>
+        <tr id="publication-num-11">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[11]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>An Image Patch Is a Wave: Phase-Aware Vision MLP</b></div>
             <div><em>Yehui Tang, Kai Han, Jianyuan Guo, Chang Xu, <b>Yanxi Li</b>, Chao Xu & Yunhe Wang</em></div>
@@ -147,8 +167,8 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-10">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[10]</td>
+        <tr id="publication-num-12">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[12]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>One-shot Graph Neural Architecture Search with Dynamic Search Space</b></div>
             <div><em><b>Yanxi Li</b>, Zean Wen, Yunhe Wang & Chang Xu</em></div>
@@ -157,8 +177,8 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-11">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[11]</td>
+        <tr id="publication-num-13">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[13]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Neural Architecture Dilation for Adversarial Robustness</b></div>
             <div><em><b>Yanxi Li</b>, Zhaohui Yang, Yunhe Wang & Chang Xu</em></div>
@@ -167,8 +187,8 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-12">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[12]</td>
+        <tr id="publication-num-14">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[14]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Prioritized Architecture Sampling with Monto-Carlo Tree Search</b></div>
             <div><em>Xiu Su, Tao Huang, <b>Yanxi Li</b>, Shan You, Fei Wang, Chen Qian, Changshui Zhang & Chang Xu</em></div>
@@ -177,8 +197,8 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-13">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[13]</td>
+        <tr id="publication-num-15">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[15]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Neural Architecture Search in A Proxy Validation Loss Landscape</b></div>
             <div><em><b>Yanxi Li</b>, Minjing Dong, Yunhe Wang & Chang Xu</em></div>
@@ -187,8 +207,8 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-14">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[14]</td>
+        <tr id="publication-num-16">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[16]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Adapting Neural Architectures Between Domains</b></div>
             <div><em><b>Yanxi Li</b>, Zhaohui Yang, Yunhe Wang & Chang Xu</em></div>
@@ -198,8 +218,18 @@ show_sidebar: false
     </table>
     <h3>Pre-printing</h3>
     <table>
-        <tr id="publication-num-15">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[15]</td>
+        <tr id="publication-num-17">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[17]</td>
+            <td valign="top" style="padding:0em 1em 1em 1em">
+            <div><b>AI Scaling: From Up to Down and Out</b></div>
+            <div><em>Yunke Wang, <b>Yanxi Li</b> & Chang Xu</em></div>
+            <div>In arXiv preprint. arXiv:2502.01677, 2025. </div>
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr id="publication-num-18">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[18]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>Understanding Robustness of Visual State Space Models for Image Classification</b></div>
             <div><em>Chengbin Du, <b>Yanxi Li</b> & Chang Xu</em></div>
@@ -208,22 +238,12 @@ show_sidebar: false
         </tr>
     </table>
     <table>
-        <tr id="publication-num-16">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[16]</td>
+        <tr id="publication-num-19">
+            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[19]</td>
             <td valign="top" style="padding:0em 1em 1em 1em">
             <div><b>GPT Self-Supervision for a Better Data Annotator</b></div>
             <div><em>Xiaohuan Pei, <b>Yanxi Li</b>, Zijian Wang & Chang Xu</em></div>
             <div>In arXiv preprint. arXiv:2306.04349, 2023. </div>
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr id="publication-num-17">
-            <td valign="top" style="width:4em;padding:0em 1em 1em 1em">[17]</td>
-            <td valign="top" style="padding:0em 1em 1em 1em">
-            <div><b>Adversarially Robust Neural Architectures</b></div>
-            <div><em>Minjing Dong, <b>Yanxi Li</b>, Yunhe Wang & Chang Xu</em></div>
-            <div>In arXiv preprint. arXiv:2009.00902, 2020. </div>
             </td>
         </tr>
     </table>
@@ -282,7 +302,7 @@ show_sidebar: false
         <tr>
             <td valign="top" style="width:6em;padding:0 1em 1em 1em">2023</td>
             <td valign="top" style="padding:0 1em 1em 1em">
-                <div><b>Distinguished Paper Award [<a href="/#publication-num-7">7</a>]</b></div>
+                <div><b>Distinguished Paper Award [<a href="/#publication-num-9">9</a>]</b></div>
                 <div>AAAI 2023. 12 winners out of 1,721 accepted papers, resulting in a success rate of 0.7%.</div>
             </td>
         </tr>
@@ -327,8 +347,8 @@ show_sidebar: false
             <td valign="top" style="width:6em;margin:0 1em 1em 1em">3/2023 - Present</td>
             <td valign="top" style="margin:0 1em 1em 1em">
                 <div><b>Mr. Du</b> (University of Sydney)</div>
-                <div>First-year PhD Student</div>
-                <div><i>Conference papers [<a href="/#publication-num-3">3</a>] and [<a href="/#publication-num-6">6</a>] (spotlight), and pre-print paper [<a href="/#publication-num-15">15</a>] were completed during this mentoring.</i></div>
+                <div>PhD Student</div>
+                <div><i>Conference papers [<a href="/#publication-num-4">4</a>], [<a href="/#publication-num-5">5</a>] and [<a href="/#publication-num-8">8</a>] (spotlight), and pre-print paper [<a href="/#publication-num-18">18</a>] were completed during this mentoring.</i></div>
             </td>
         </tr>
     </table>
@@ -337,8 +357,8 @@ show_sidebar: false
             <td valign="top" style="width:6em;margin:0 1em 1em 1em">12/2022 - Present</td>
             <td valign="top" style="margin:0 1em 1em 1em">
                 <div><b>Mr. Pei</b> (University of Sydney)</div>
-                <div>Second-year PhD Student</div>
-                <div><i>Conference paper [<a href="/#publication-num-4">4</a>] and pre-print paper [<a href="/#publication-num-16">16</a>] were completed during this mentoring.</i></div>
+                <div>PhD Student</div>
+                <div><i>Conference paper [<a href="/#publication-num-6">6</a>] and pre-print paper [<a href="/#publication-num-19">19</a>] were completed during this mentoring.</i></div>
             </td>
         </tr>
     </table>
@@ -348,7 +368,7 @@ show_sidebar: false
             <td valign="top" style="margin:0 1em 1em 1em">
                 <div><b>Mr. Cheng</b> (University of Sydney)</div>
                 <div>Master of Philosophy Student</div>
-                <div><i>Conference paper [<a href="/#publication-num-7">7</a>] were completed during this mentoring and was awarded the Distinguished Paper Award at AAAI 2023.</i></div>
+                <div><i>Conference paper [<a href="/#publication-num-9">9</a>] were completed during this mentoring and was awarded the Distinguished Paper Award at AAAI 2023.</i></div>
             </td>
         </tr>
     </table>
@@ -373,7 +393,7 @@ show_sidebar: false
             <td valign="top" style="margin:0 1em 1em 1em">
                 <div><b>Noah’s Ark Lab</b></div>
                 <div>PhD Research Intern</div>
-                <div><em>Conference papers [<a href="/#publication-num-8">8</a>] and [<a href="/#publication-num-9">9</a>] were completed during this internship.</em></div>
+                <div><em>Conference papers [<a href="/#publication-num-10">10</a>] and [<a href="/#publication-num-11">11</a>] were completed during this internship.</em></div>
             </td>
         </tr>
     </table>
